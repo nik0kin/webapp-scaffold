@@ -3,16 +3,23 @@ My current goto for creating a quick project.
 
 -----
 
-Asset Build System: Broccoli, Browserify
+Asset Build Pipeline:
+ - Broccoli
+ - Browserify
+Preprocessors: 
+ - Jade
+ - Sass
+ES6: 
+ - Babel
 
-Preprocessors: Jade, Sass
 
-ES6: Babel
+JS Libraries: 
+ - Jquery
+ - Lodash
+ - Bootstrap
 
-
-JS Libraries: Jquery, Lodash, Bootstrap
-
-CSS Libraries: Bootstrap
+CSS Libraries: 
+ - Bootstrap
 
 -----
 
