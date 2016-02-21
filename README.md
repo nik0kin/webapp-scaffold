@@ -6,9 +6,11 @@ My current goto for creating a quick project.
 Asset Build Pipeline:
  - Broccoli
  - Browserify
+
 Preprocessors: 
  - Jade
  - Sass
+
 ES6: 
  - Babel
 
