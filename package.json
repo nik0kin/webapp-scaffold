@@ -1,0 +1,29 @@
+{
+  "name": "webapp-scaffold",
+  "version": "0.1.0",
+  "description": "My current goto for creating a quick project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.org/nik0kin/webapp-scaffold"
+  },
+  "author": "NIK",
+  "license": "ISC",
+  "homepage": "https://github.org/nik0kin/webapp-scaffold",
+  "dependencies": {},
+  "devDependencies": {
+    "broccoli": "^0.13.6",
+    "broccoli-babel-transpiler": "5.4.3",
+    "broccoli-browserify": "^0.1.0",
+    "broccoli-concat": "0.0.12",
+    "broccoli-env": "0.0.1",
+    "broccoli-jade": "^1.1.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-sass": "0.6.7",
+    "broccoli-static-compiler": "^0.2.1",
+    "broccoli-uglify-js": "^0.1.3"
+  }
+}
